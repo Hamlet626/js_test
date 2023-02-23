@@ -1,0 +1,11 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "docx-parser": "^0.2.1",
+    "mammoth": "^1.5.1",
+    "pdf-parse": "^1.1.1",
+    "pdf2json": "^3.0.2"
+  }
+}
